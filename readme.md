@@ -49,8 +49,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - **Tech Stack:** HTML, CSS, and JavaScript — proving that sometimes the simplest tools can create the coolest projects.
 - **Community:** Thanks to all the developers who continuously push the boundaries of creativity and innovation.
 
-## Repository Link
 
-Check out the project on GitHub: Tic-Tac-Toe
-    ```css
-    This README gives your repository a clear, professional face with just the right mix of playful yet straightforward communication. Feel free to tweak it further to match your style and vision. Happy coding!
