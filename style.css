@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* background-color: #22333b; */
+  background-image: url("/assets/premium_photo-1674048382856-aa9984d8b391.jpeg");
+  text-align: center;
+}
+
+.container {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5vmin;
+}
+
+h1 {
+  color: #22333b;
+  font-size: 5vmin;
+  font-weight: 700;
+}
+
+.game {
+  height: 60vmin;
+  width: 60vmin;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5vmin;
+}
+
+.box {
+  height: 18vmin;
+  width: 18vmin;
+  border-radius: 1rem;
+  border: none;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
+  font-size: 10vmin;
+  color: #000;
+  background-image: url("/assets/1000_F_369250586_z5HZqoztht4SIMRycXGNsVoELLLKrpjg.jpg");
+}
+
+#Reset-btn {
+  color: #ffffff;
+  padding: 1rem;
+  font-size: 1.2rem;
+  background-color: #22333b;
+  border-radius: 1rem;
+  border: none;
+  margin-bottom: 2vmin;
+}
+
+#new-btn {
+  color: #fff;
+  padding: 1rem;
+  font-size: 1.2rem;
+  background-color: #22333b;
+  border-radius: 1rem;
+  border: none;
+}
+
+#msg {
+  color: #22333b;
+  font-size: 5vmin;
+  font-weight: 700;
+}
+
+.msg-container {
+  height: 100vmin;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  gap: 2vmin;
+}
+
+.hide {
+  display: none;
+}
